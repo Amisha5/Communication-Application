@@ -9,4 +9,4 @@ Communication application which have few functionality such as user data list, c
 
 Technologies :
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,php)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,php,mysql)](https://skillicons.dev)
