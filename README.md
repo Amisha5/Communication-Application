@@ -8,4 +8,5 @@ Communication application which have few functionality such as user data list, c
 4. For windows WAMP or XAMPP server, for Mac MAMP server, or for Linux LAMP server.
 
 Technologies :
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,php)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,php)](https://skillicons.dev)
